@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nizamsenglish/static/css/main.bba8a3cb.css",
-    "main.js": "/Nizamsenglish/static/js/main.3f49a13f.js",
+    "main.css": "/Nizamsenglish/static/css/main.6ed86705.css",
+    "main.js": "/Nizamsenglish/static/js/main.054e293d.js",
     "static/media/profile-2.png": "/Nizamsenglish/static/media/profile-2.2137251ea896c64a1900.png",
     "static/media/Li Swarnali Okkhor Unicode.ttf": "/Nizamsenglish/static/media/Li Swarnali Okkhor Unicode.803bb847bf66d8779791.ttf",
     "static/media/du-logo.png": "/Nizamsenglish/static/media/du-logo.7b5a97cc27eb0e6c41b1.png",
@@ -11,14 +11,16 @@
     "static/media/Li Alinur Rangpur Unicode.ttf": "/Nizamsenglish/static/media/Li Alinur Rangpur Unicode.9334455062e3e975b740.ttf",
     "static/media/ru-logo.png": "/Nizamsenglish/static/media/ru-logo.4e5e38ba12d279ee1c37.png",
     "static/media/bg.png": "/Nizamsenglish/static/media/bg.6af52b889753301ee44c.png",
-    "static/media/TITLE-LOGO.png": "/Nizamsenglish/static/media/TITLE-LOGO.1d49dc1e6e102dda1598.png",
+    "static/media/TITLE-LOGO.png": "/Nizamsenglish/static/media/TITLE-LOGO.428a293d1549e0580081.png",
     "static/media/ju-logo-2.png": "/Nizamsenglish/static/media/ju-logo-2.ceb9db959925d599fda5.png",
+    "static/media/students.png": "/Nizamsenglish/static/media/students.9b81328892e63660343a.png",
+    "static/media/dont.png": "/Nizamsenglish/static/media/dont.33050a5739b356ce9529.png",
     "index.html": "/Nizamsenglish/index.html",
-    "main.bba8a3cb.css.map": "/Nizamsenglish/static/css/main.bba8a3cb.css.map",
-    "main.3f49a13f.js.map": "/Nizamsenglish/static/js/main.3f49a13f.js.map"
+    "main.6ed86705.css.map": "/Nizamsenglish/static/css/main.6ed86705.css.map",
+    "main.054e293d.js.map": "/Nizamsenglish/static/js/main.054e293d.js.map"
   },
   "entrypoints": [
-    "static/css/main.bba8a3cb.css",
-    "static/js/main.3f49a13f.js"
+    "static/css/main.6ed86705.css",
+    "static/js/main.054e293d.js"
   ]
 }
