@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nizamsenglish/static/css/main.6ed86705.css",
-    "main.js": "/Nizamsenglish/static/js/main.48a896fb.js",
+    "main.js": "/Nizamsenglish/static/js/main.e18cc93a.js",
     "static/media/profile-2.png": "/Nizamsenglish/static/media/profile-2.2137251ea896c64a1900.png",
     "static/media/Li Swarnali Okkhor Unicode.ttf": "/Nizamsenglish/static/media/Li Swarnali Okkhor Unicode.803bb847bf66d8779791.ttf",
     "static/media/du-logo.png": "/Nizamsenglish/static/media/du-logo.7b5a97cc27eb0e6c41b1.png",
@@ -17,10 +17,10 @@
     "static/media/dont.png": "/Nizamsenglish/static/media/dont.33050a5739b356ce9529.png",
     "index.html": "/Nizamsenglish/index.html",
     "main.6ed86705.css.map": "/Nizamsenglish/static/css/main.6ed86705.css.map",
-    "main.48a896fb.js.map": "/Nizamsenglish/static/js/main.48a896fb.js.map"
+    "main.e18cc93a.js.map": "/Nizamsenglish/static/js/main.e18cc93a.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed86705.css",
-    "static/js/main.48a896fb.js"
+    "static/js/main.e18cc93a.js"
   ]
 }
